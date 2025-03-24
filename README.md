@@ -1,4 +1,4 @@
-# ![Migraine Logo](https://migraine.bot/logo.png) MIGRAINE: Conquer the Solana & Pump.Fun Arena
+# [<img alt="UI" width="50px" src="https://migraine.bot/logo.png" />](https://migraine.bot/)  MIGRAINE: Conquer the Solana & Pump.Fun
 
 **Get ahead of the competition with our cutting-edge Solana & Pump.Fun tools.**
 
