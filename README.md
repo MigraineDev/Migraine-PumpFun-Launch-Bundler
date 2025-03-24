@@ -14,13 +14,13 @@
 
 ## 🌟 Key Features
 
-| Feature                     | Description                                                         | Icon                      |
-| :-------------------------- | :------------------------------------------------------------------ | :------------------------ |
-| **Generate Bundled Wallets** | Create new bundled wallets quickly and efficiently.                  | <i class="fas fa-wallet"></i>     |
-| **Create Token**           | Launch new tokens on pump.fun with ease.                             | <i class="fas fa-plus-circle"></i> |
-| **Buy with Bundled Wallets**| Seamlessly purchase tokens using your bundled wallets.                 | <i class="fas fa-shopping-cart"></i> |
-| **Dump Bundled Wallets**   | Strategically dump tokens from your bundled wallets.                  | <i class="fas fa-trash-alt"></i>  |
-| **Send All SOL Back**      | Return SOL to your developer wallet with a single click.              | <i class="fas fa-arrow-left"></i> |
+| Feature                     | Description                                                         |
+| :-------------------------- | :------------------------------------------------------------------ |
+| **Generate Bundled Wallets** | Create new bundled wallets quickly and efficiently.                  |
+| **Create Token**           | Launch new tokens on pump.fun with ease.                             |
+| **Buy with Bundled Wallets**| Seamlessly purchase tokens using your bundled wallets.                 |
+| **Dump Bundled Wallets**   | Strategically dump tokens from your bundled wallets.                  |
+| **Send All SOL Back**      | Return SOL to your developer wallet with a single click.              |
 
 _More features are constantly being developed!_
 
