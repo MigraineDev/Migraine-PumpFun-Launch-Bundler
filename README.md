@@ -2,7 +2,7 @@
 
 **Get ahead of the competition with our cutting-edge Solana & Pump.Fun tools.**
 
-[Hero Image](https://migraine.bot/ui.png)
+[!Hero Image](https://migraine.bot/ui.png)
 
 <a href="#pricing"><button style="background-color: #6200ea; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">Buy Now</button></a>
 
