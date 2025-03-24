@@ -1,4 +1,4 @@
-# [<img alt="UI" width="50px" src="https://migraine.bot/logo.png" />](https://migraine.bot/)  MIGRAINE: Conquer the Solana & Pump.Fun
+# [<img alt="UI" width="50px" src="https://migraine.bot/logo.png" />](https://migraine.bot/)  MIGRAINE: Conquer Solana & Pump.Fun 
 
 **Get ahead of the competition with our cutting-edge Solana & Pump.Fun tools.**
 
@@ -6,7 +6,7 @@
 
 <a href="https://migraine.bot/#pricing"><button style="background-color: #6200ea; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">Buy Now</button></a>
 
-<a href="https://migraine.bot/#pricing"><button style="background-color: #6200ea; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">Obtain 48 Trial</button></a>
+<a href="https://migraine.bot/#pricing"><button style="background-color: #6200ea; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">Get 48h Trial</button></a>
 
 > A powerful tool for Solana & pump.fun. Import and manage dev and bundled wallets, fund and trade them simultaneously, create and launch tokens, swap any coin, and track Twitter and wallets to stay ahead of new launches.
 
